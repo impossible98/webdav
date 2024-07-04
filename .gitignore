@@ -1,0 +1,5 @@
+# Production
+/dist
+
+# Misc
+.DS_Store
